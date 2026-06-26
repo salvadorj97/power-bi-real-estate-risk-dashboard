@@ -122,6 +122,8 @@ As part of an external audit (Big 4 consulting firm), I performed a line-by-line
 
 Each anomaly was documented and escalated to the responsible team with a corrective action summary.
 
+![Dashboard preview](docs/data_quality.png)
+
 ---
 
 ## Repository Structure
